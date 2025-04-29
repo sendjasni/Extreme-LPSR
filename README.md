@@ -20,12 +20,17 @@ torch>=1.10
 torchvision
 numpy
 ```
+## Evaluation
+
+To evaluate the model on a sample low-resolution image:
+- Place your low-resolution image at `samples/lr.png`
+- Place the corresponding high-resolution ground truth at `samples/hr.png`
+- Download the pretrained model weights and place them in `checkpoints`
 
 ## Project structure
 ```
 Extreme-LPSR/
-├── model.py              
-├── utils.py             
+├── model.py                        
 ├── eval.py              
 ├── README.md
 └── requirements.txt
