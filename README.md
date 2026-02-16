@@ -5,6 +5,7 @@ This repository implements license plate extreme super-resolution, currently und
 **Title:** *Embedding Similarity Guided License Plate Super Resolution*  
 **Authors:** Abderrezzaq Sendjasni and  Mohamed-Chaker Larabi
 
+**Neurocomputing:** [https://www.sciencedirect.com/science/article/pii/S0925231225013293](https://www.sciencedirect.com/science/article/pii/S0925231225013293
 **ArXiv:** [arxiv.org/abs/2501.01483v2](https://arxiv.org/abs/2501.01483v2)
 
 ---
