@@ -1,12 +1,11 @@
 # Extreme-LPSR
-This repository implements license plate extreme super-resolution, currently under review.
+This repository implements license plate extreme super-resolution, published at **Neurocomputing**.
 
 **Publication:**  
 **Title:** *Embedding Similarity Guided License Plate Super Resolution*  
 **Authors:** Abderrezzaq Sendjasni and  Mohamed-Chaker Larabi
 
-**Neurocomputing:** [https://www.sciencedirect.com/science/article/pii/S0925231225013293](https://www.sciencedirect.com/science/article/pii/S0925231225013293
-**ArXiv:** [arxiv.org/abs/2501.01483v2](https://arxiv.org/abs/2501.01483v2)
+**Read the article:** [https://www.sciencedirect.com/science/article/pii/S0925231225013293](https://www.sciencedirect.com/science/article/pii/S0925231225013293)
 
 ---
 ## Installation
@@ -42,3 +41,18 @@ For questions or collaborations, open an issue or contact via email: abderrezzaq
 
 ## License
 This project is licensed under the MIT License.
+
+## How to cite
+```
+@article{SENDJASNI2025130657,
+  title = {Embedding similarity guided license plate super resolution},
+  journal = {Neurocomputing},
+  volume = {651},
+  pages = {130657},
+  year = {2025},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2025.130657},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231225013293},
+  author = {Abderrezzaq Sendjasni and Mohamed-Chaker Larabi}
+}
+```
